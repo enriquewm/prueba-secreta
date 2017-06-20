@@ -1,0 +1,100 @@
+div.about{
+    height: 700px !important;
+    background-color:  #260146;
+
+}
+
+.mono-fo{
+    margin-top: 80px; 
+    width: 100% !important;
+    background-image: url(../img/event-banner.jpg);
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.mono-pa{
+    
+    background: linear-gradient(100deg, #260146 90%, transparent 10%) !important;
+    -webkit-box-shadow: -14px -11px 29px -17px rgba(26,15,26,1) !important;
+    -moz-box-shadow: -14px -11px 29px -17px rgba(26,15,26,1) !important;
+    box-shadow: -14px -11px 29px -17px rgba(26,15,26,1) !important;
+    width: 60% !important;
+    padding: 10px;
+}
+
+.about .mono-pa h3{
+    font-family: baloo !important;
+    color: #E99706;
+    font-size: 3em;
+    padding-bottom: 10px;
+    
+}
+
+
+
+.pruev1{
+    color: red !important;
+    
+    
+}
+
+.fondom{
+    color: #fff !important;
+    font-size: 4em !important;
+    transition:all 20s;
+    
+}
+
+.about .mono-pa p{
+    width: 90% !important;
+    font-family:Raleway !important;
+    color: #dbdbdb;
+    font-size: 1em;
+    padding-bottom: 5px;
+}
+.p-l{
+    font-size: 2em;
+    color: #E99706;
+    font-family: baloo !important;
+}
+.about .mono-pa span .especial{
+    color:#E99706;
+    font-family: baloo !important;
+}
+
+.about .mono-pa span .especial:hover{
+    text-decoration: none;
+    color: #B26104;
+}
+.redes{
+    padding-left: 150px;
+}
+
+
+}
+.redes ul{
+    list-style: none;
+}
+
+.redes ul li{
+    display: inline;
+    margin-left: 10px;
+}
+
+.redes ul li a{
+    color: #fff;
+    padding: 7px 10px;
+    border: 1px solid #fff;
+    border-radius: 6px;
+    transition:all 1s;
+}
+
+.redes ul li a:hover{
+    background: #fff;
+    color: #260146;
+    border-radius: 10px;
+    text-decoration: none;
+    
+
+}
